@@ -58,7 +58,7 @@ export const RegisterPage = () => {
   };
 
   return (
-    <AuthLayout title="Create acount">
+    <AuthLayout title="Create account">
       <form onSubmit={onSubmit}>
         <Grid container justifyContent="center" alignItems="center">
           <Grid item xs={12} sx={{ mt: 2 }}>
@@ -124,7 +124,7 @@ export const RegisterPage = () => {
           </Grid>
 
           <Grid container direction="row" justifyContent="end">
-            <Typography sx={{ mr: 1 }}>¿you have account?</Typography>
+            <Typography sx={{ mr: 1 }}>¿Already have an account?</Typography>
             <Link component={RouterLink} color="inherit" to="/auth/login">
               Login
             </Link>
