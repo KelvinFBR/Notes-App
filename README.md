@@ -21,7 +21,7 @@ Tambien implemente algunas caracteristicas diferentes y nuevas a la que se pedia
 
 ---
 
-## [Ver Proyecto]() 👈
+## [Ver Proyecto](https://notes-app-react-k.netlify.app/) 👈
 
 ---
 
