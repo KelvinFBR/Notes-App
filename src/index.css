@@ -1,0 +1,19 @@
+.box-shadow {
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+}
+.bg-edit-photo {
+  background-color: #0d122e7d;
+  box-shadow: 0 5px 5px rgba(255, 255, 255, 0.2);
+}
+
+.reset-links {
+  text-decoration: none;
+  color: #3c413f;
+}
+
+.reset-links:active {
+  color: #3c413f;
+}
+.reset-links:visited {
+  color: #3c413f;
+}
