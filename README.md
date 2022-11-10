@@ -17,7 +17,7 @@ Tambien implemente algunas caracteristicas diferentes y nuevas a la que se pedia
 
 ---
 
-![presentacion]()
+![presentacion](https://i.imgur.com/0Ma6GK5.jpg)
 
 ---
 
@@ -27,7 +27,7 @@ Tambien implemente algunas caracteristicas diferentes y nuevas a la que se pedia
 
 # Comando para correr la app:
 
-1. Clonar o instalar
+1. Clonar el repo
 2. Ejecutar el comando:
 
 ```
