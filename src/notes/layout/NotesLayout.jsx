@@ -6,7 +6,7 @@ import { NavBar, SideBar } from "../components";
 const drawerWidth = 280;
 
 export const NotesLayout = ({ children }) => {
-  const [isSideBarOpen, setIsSideBarOpen] = useState(false);
+  const [isSideBarOpen, setIsSideBarOpen] = useState(true);
 
   return (
     <Box
